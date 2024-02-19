@@ -3,7 +3,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh; /* Added to extend body to the bottom of the screen */
+  height: 98vh; /* Added to extend body to the bottom of the screen */
 }
 
 #main-box {
