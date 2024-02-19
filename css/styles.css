@@ -13,6 +13,9 @@ body {
   position: relative;
   color: #000;
   font-size: 80px;
+  @media (max-width: 600px) {
+    font-size: 10vw;
+  }
 }
 
 .line:not(:first-child) {
